@@ -12,8 +12,8 @@ Página estática sencilla tipo "link in bio" con los enlaces principales de Dav
 
 - LinkedIn: [linkedin.com/in/lapuenteromerodavid](https://www.linkedin.com/in/lapuenteromerodavid/)
 - Web: [davidlapuente.lovable.app](https://www.davidlapuente.lovable.app) 
-- Portfolio: [david-lapuente-romero-jemrrlc.gamma.site](https://david-lapuente-romero-jemrrlc.gamma.site/)
-- Landing: [web-de-alta-conversion-6fyh7e5.gamma.site/landing-page](https://web-de-alta-conversion-6fyh7e5.gamma.site/landing-page)
+- Portfolio: [david-lapuente-romero-jemrrlc.gamma.site](https://david-lapuente-romero-jemrrlc.gamma.site/portfolio-david-lapuente-romero)
+- Landing: [web-de-alta-conversion-6fyh7e5.gamma.site/landing-page](https://landin-page-david-lapuen-8113aql.gamma.site/)
 - Reseñas de Google: enlace corto de Google (share.google)
 
 ## Publicación
